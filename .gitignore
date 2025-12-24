@@ -1,0 +1,15 @@
+# Ignore the folder where screenshots are saved
+Screenshots/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore virtual environments
+venv/
+env/
+.env
