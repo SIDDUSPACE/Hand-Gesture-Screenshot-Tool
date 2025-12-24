@@ -23,3 +23,27 @@ graph LR
     F --> G[Visual Flash Effect]
     G --> H[Save to /Screenshots]
     E -- No --> A
+```
+
+🚀 Installation & Setup
+1. Clone the Repository
+git clone [https://github.com/SIDDUSPACE/Hand-Gesture-Screenshot-Tool.git](https://github.com/SIDDUSPACE/Hand-Gesture-Screenshot-Tool.git)
+cd Hand-Gesture-Screenshot-Tool
+
+2. Install Dependencies
+pip install -r requirements.txt
+
+3. Run the Application
+python hand_screenshot.py
+
+📂 Project Structure
+Hand-Gesture-Screenshot-Tool/
+├── hand_screenshot.py    # Main Application Logic
+├── requirements.txt      # Dependency List
+├── .gitignore           # Prevents uploading local screenshots
+└── Screenshots/         # Local folder for captures
+
+👨‍💻 Developed By
+Siddarth S ECE Student | Embedded Systems & Linux Enthusiast Portfolio | LinkedIn
+
+
