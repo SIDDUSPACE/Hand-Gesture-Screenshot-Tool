@@ -31,17 +31,24 @@ git clone [https://github.com/SIDDUSPACE/Hand-Gesture-Screenshot-Tool.git](https
 cd Hand-Gesture-Screenshot-Tool
 
 2. Install Dependencies
+   
 pip install -r requirements.txt
 
 3. Run the Application
+   
 python hand_screenshot.py
 
 📂 Project Structure
+
 Hand-Gesture-Screenshot-Tool/
-├── hand_screenshot.py    # Main Application Logic
-├── requirements.txt      # Dependency List
-├── .gitignore           # Prevents uploading local screenshots
-└── Screenshots/         # Local folder for captures
+
+├── hand_screenshot.py    
+
+├── requirements.txt     
+
+├── .gitignore          
+
+└── Screenshots/        
 
 👨‍💻 Developed By
 
