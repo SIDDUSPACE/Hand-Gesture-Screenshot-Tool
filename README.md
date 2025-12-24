@@ -24,7 +24,7 @@ graph LR
     G --> H[Save to /Screenshots]
     E -- No --> A
 ```
-![Sample Demo](./Screenshots/Image.png)
+![Sample Demo](./Screenshots/screenshot_20251224-164929.png)
 
 🚀 Installation & Setup
 1. Clone the Repository
