@@ -44,6 +44,6 @@ Hand-Gesture-Screenshot-Tool/
 └── Screenshots/         # Local folder for captures
 
 👨‍💻 Developed By
-Siddarth S ECE Student | Embedded Systems & Linux Enthusiast Portfolio | LinkedIn
 
+Siddarth S ECE Student | Embedded Systems & Linux Enthusiast Portfolio | LinkedIn- https://www.linkedin.com/in/siddarth-s-embedded/
 
